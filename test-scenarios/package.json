@@ -7,7 +7,7 @@
     "qunit": "^2.6.1",
     "ts-node": "^9.1.1",
     "scenario-tester": "^2.1.2",
-    "jsdom": "^11.11.0"
+    "jsdom": "^16.5.0"
   },
   "scripts": {
     "test": "qunit --require ts-node/register *-test.ts",
